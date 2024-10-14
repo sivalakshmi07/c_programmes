@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+int num=2;
+switch (num)
+{
+case 1:printf("one\n");
+break;
+case 2:printf("two\n");
+break;
+case 3:printf("three\n");
+beak;
+default:printf("invalid\n");
+}
+return 0;
+}
